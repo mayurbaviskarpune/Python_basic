@@ -1,0 +1,5 @@
+Day 15: Final Project & Revision
+
+Build a small project integrating multiple concepts (e.g., To-Do App, Web Scraper, or API service)
+
+Revise concepts & practice coding problems

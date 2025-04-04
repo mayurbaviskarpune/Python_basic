@@ -1,0 +1,7 @@
+Day 7: Object-Oriented Programming (OOP) – Part 1
+
+Classes & objects
+
+Instance variables & methods
+
+Class attributes & methods

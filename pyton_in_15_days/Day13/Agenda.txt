@@ -1,0 +1,8 @@
+Week 3: Real-World Applications
+Day 13: Working with Databases
+
+Connecting to MySQL/PostgreSQL (sqlite3, SQLAlchemy)
+
+CRUD operations
+
+Using ORM

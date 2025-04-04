@@ -1,0 +1,39 @@
+Day1
+Day 1: Introduction to Python
+
+Installing Python & setting up an IDE
+
+Python syntax, variables, and data types
+
+Basic input/output
+
+
+# String Methods in Python
+def string_methods():
+    text = "  hello world  "
+    num = "12345"
+    words = ["apple", "banana", "grape"]
+    
+    print("Original String:", text)
+    print("Uppercase:", text.upper())
+    print("Lowercase:", text.lower())
+    print("Title Case:", text.title())
+    print("Capitalized:", text.capitalize())
+    print("Stripped:", text.strip())
+    print("Left Stripped:", text.lstrip())
+    print("Right Stripped:", text.rstrip())
+    print("Replaced:", text.replace("world", "Python"))
+    print("Split:", text.split())
+    print("Joined:", ", ".join(words))
+    print("Find 'world':", text.find("world"))
+    print("Count 'l':", text.count("l"))
+    print("Starts with 'hello':", text.startswith("hello"))
+    print("Ends with 'world':", text.endswith("world"))
+    print("Is Alpha:", text.isalpha())
+    print("Is Digit:", num.isdigit())
+    print("Is Alphanumeric:", "Hello123".isalnum())
+
+# Run the function
+if __name__ == "__main__":
+    string_methods() 
+    

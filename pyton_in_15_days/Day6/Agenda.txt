@@ -1,0 +1,8 @@
+
+Day 6: File Handling & Exception Handling
+
+Reading & writing files (open, with, read, write)
+
+Error handling (try, except, finally)
+
+Raising exceptions (raise)

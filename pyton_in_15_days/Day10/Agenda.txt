@@ -1,0 +1,7 @@
+Day 10: Decorators & Closures
+
+Understanding closures
+
+Function decorators (@staticmethod, @classmethod, @property)
+
+Custom decorators

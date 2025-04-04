@@ -1,0 +1,7 @@
+Day 12: Multithreading & Multiprocessing
+
+Threading (threading module)
+
+Process-based parallelism (multiprocessing module)
+
+Async programming (asyncio)

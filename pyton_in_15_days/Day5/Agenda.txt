@@ -1,0 +1,7 @@
+Day 5: Data Structures – Dictionaries & Sets
+
+Dictionary operations & methods
+
+Set operations & uniqueness
+
+Dictionary & set comprehensions

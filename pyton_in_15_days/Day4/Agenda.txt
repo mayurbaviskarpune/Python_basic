@@ -1,0 +1,7 @@
+Day 4: Data Structures – Lists & Tuples
+
+List methods (append, pop, sort, etc.)
+
+Tuples & tuple unpacking
+
+List comprehensions

@@ -3,6 +3,8 @@
 syntax
 requests.methodname(params)
 
+
+
 delete(url, args)	            Sends a DELETE request to the specified url
 get(url, params, args)	        Sends a GET request to the specified url
 head(url, args)	                Sends a HEAD request to the specified url

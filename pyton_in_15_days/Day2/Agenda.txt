@@ -1,0 +1,9 @@
+Day2
+
+Day 2: Control Flow
+
+Conditional statements (if, elif, else)
+
+Looping (for, while)
+
+Iterators & range function

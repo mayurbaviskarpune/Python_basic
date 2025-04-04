@@ -1,0 +1,7 @@
+Day 14: API Development with Flask/FastAPI
+
+Setting up a simple API
+
+Handling requests & responses
+
+JSON handling & authentication

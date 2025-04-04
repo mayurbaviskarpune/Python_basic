@@ -1,0 +1,11 @@
+
+Day 3: Functions & Scope
+
+Defining functions (def)
+
+Function arguments & return values
+
+Scope (local, global, nonlocal)
+
+
+

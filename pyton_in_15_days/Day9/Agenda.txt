@@ -1,0 +1,7 @@
+Day 9: Modules & Packages
+
+Importing modules (import, from)
+
+Creating custom modules
+
+Virtual environments & package management (pip)

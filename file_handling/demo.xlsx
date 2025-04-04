@@ -1,0 +1,8 @@
+Function									Description
+argparse.ArgumentParser(description="Text")				Initializes the argument parser with a script description.
+add_argument("arg_name")						Defines a positional argument (required).
+add_argument("-o", "--option", type=str)				Defines an optional argument (can be omitted).
+add_argument("-n", "--number", type=int, default=10)			Optional argument with a default value.
+add_argument("-f", "--flag", action="store_true")			Defines a boolean flag (True if present, False if omitted).
+args = parser.parse_args()						Parses the command-line input.
+args.argument_name							Accesses the values of parsed arguments.
